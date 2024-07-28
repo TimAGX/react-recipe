@@ -20,3 +20,4 @@ spec:
         image: react-recipe:v1
         ports:
         - containerPort: 80
+
